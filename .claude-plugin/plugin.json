@@ -1,0 +1,11 @@
+{
+  "name": "ponytail",
+  "version": "0.1.0",
+  "description": "Tie up loose ends: find leftover TODOs, debug output, and uncommitted changes before you wrap up.",
+  "author": {
+    "name": "pavangullapalli472"
+  },
+  "repository": "https://github.com/pavangullapalli472/demo",
+  "license": "MIT",
+  "keywords": ["cleanup", "todo", "review"]
+}

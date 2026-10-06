@@ -1,0 +1,16 @@
+{
+  "name": "ponytail-marketplace",
+  "owner": {
+    "name": "pavangullapalli472"
+  },
+  "metadata": {
+    "description": "Marketplace for the ponytail Claude Code plugin."
+  },
+  "plugins": [
+    {
+      "name": "ponytail",
+      "source": "./",
+      "description": "Tie up loose ends: find leftover TODOs, debug output, and uncommitted changes before you wrap up."
+    }
+  ]
+}
